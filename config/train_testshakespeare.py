@@ -7,7 +7,7 @@ compile=False
 
 wandb_log = True
 wandb_project = 'test-shakespeare-gpt2-smallest'
-wandb_run_name='initial-test-shakespeare-gpt2-smallest'
+wandb_run_name='w-2'
 
 out_dir='out-test'
 # saves the model if its good enough
